@@ -1,1 +1,15 @@
-
+[
+  {
+    "id": "file_01",
+    "titolo": "Traccia Gratuita 1",
+    "tipo": "gratis",
+    "url_download": "https://githubusercontent.com"
+  },
+  {
+    "id": "file_02",
+    "titolo": "Traccia Premium 1 (A pagamento)",
+    "tipo": "premium",
+    "url_download": "BLOCCATO",
+    "nome_file_reale": "canzone_premium.mp3"
+  }
+]
