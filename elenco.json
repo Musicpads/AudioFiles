@@ -39,7 +39,8 @@
   {
     "id": "file_07",
     "titolo": "7.Traccia Classica",
-    "tipo": "gratis",
+    "tipo": "premium",
+    "url_download": "BLOCCATO",
     "nome_file_reale": "classica1.mp3"
   }
 ]
