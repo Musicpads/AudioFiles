@@ -29,18 +29,5 @@
     "titolo": "Traccia Rock1",
     "tipo": "gratis",
     "nome_file_reale": "canzone_rock1.mp3"
-  },
-   {
-    "id": "file_06",
-    "titolo": "Traccia Classica",
-    "tipo": "gratis",
-    "nome_file_reale": "classica.mp3"
-  },
-  {
-    "id": "file_07",
-    "titolo": "7.Traccia Classica",
-    "tipo": "premium",
-    "url_download": "BLOCCATO",
-    "nome_file_reale": "classica1.mp3"
   }
 ]
