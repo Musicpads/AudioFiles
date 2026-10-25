@@ -23,11 +23,5 @@
     "titolo": "Traccia Rock",
     "tipo": "gratis",
     "nome_file_reale": "canzone_rock1.mp3"
-  },
-       {
-    "id": "file_05",
-    "titolo": "Traccia Musica classica",
-    "tipo": "gratis",
-    "nome_file_reale": "Classica.mp3"
   }
 ]
