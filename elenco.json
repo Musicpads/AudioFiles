@@ -29,5 +29,11 @@
     "titolo": "Traccia Rock1",
     "tipo": "gratis",
     "nome_file_reale": "canzone_rock1.mp3"
+  },
+  {
+    "id": "file_06",
+    "titolo": "Traccia Rock2",
+    "tipo": "gratis",
+    "nome_file_reale": "canzone_rock2.mp3"
   }
 ]
