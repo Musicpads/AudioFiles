@@ -8,9 +8,8 @@
   {
     "id": "pad_02",
     "titolo": "2.Shimmer",
-    "tipo": "premium",
-    "url_download": "gratis",
-    "nome_file_reale": "https://github.com/Musicpads/AudioFiles/raw/refs/heads/main/shimmer.mp3"
+    "tipo": "gratis",
+    "nome_download": "https://github.com/Musicpads/AudioFiles/raw/refs/heads/main/shimmer.mp3"
   },
    {
     "id": "pad_03",
