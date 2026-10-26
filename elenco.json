@@ -1,32 +1,32 @@
 [
   {
-    "id": "file_01",
-    "titolo": "1. Warm pad",
+    "id": "pad_01",
+    "titolo": "1.Warm pad",
     "tipo": "gratis",
     "url_download": "https://github.com/Musicpads/AudioFiles/raw/refs/heads/main/Do_maggiore.mp3"
   },
   {
-    "id": "file_02",
+    "id": "pad_02",
     "titolo": "Traccia Premium 1",
     "tipo": "premium",
     "url_download": "BLOCCATO",
     "nome_file_reale": "canzone_premium.mp3"
   },
    {
-    "id": "file_03",
+    "id": "pad_03",
     "titolo": "Traccia Rock",
     "tipo": "gratis",
     "nome_file_reale": "canzone_rock.mp3"
   },
      {
-    "id": "file_04",
+    "id": "pad_04",
     "titolo": "Traccia Rock",
     "tipo": "premium",
     "url_download": "BLOCCATO",
     "nome_file_reale": "canzone_rock1.mp3"
   },
   {
-    "id": "file_05",
+    "id": "pad_05",
     "titolo": "Traccia Rock1",
     "tipo": "gratis",
     "nome_file_reale": "canzone_rock1.mp3"
