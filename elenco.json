@@ -26,8 +26,14 @@
   },
   {
     "id": "pad_05",
-    "titolo": "Traccia Rock1",
+    "titolo": "5.Deep Sea Abyss",
     "tipo": "gratis",
-    "nome_file_reale": "canzone_rock1.mp3"
+    "nome_download": "https://github.com/Musicpads/AudioFiles/raw/refs/heads/main/Deep_Sea_Abyss.mp3"
+  },
+  {
+    "id": "pad_06",
+    "titolo": "6.Aurora luminous",
+    "tipo": "gratis",
+    "nome_download": "https://github.com/Musicpads/AudioFiles/raw/refs/heads/main/Aurora_luminous.mp3"
   }
 ]
