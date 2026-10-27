@@ -7,33 +7,45 @@
   },
   {
     "id": "pad_02",
-    "titolo": "2.Cosmic Drift",
+    "titolo": "2.Amber Cloud",
     "tipo": "gratis",
-    "nome_download": "https://github.com/Musicpads/AudioFiles/raw/refs/heads/main/Cosmic_Drift.mp3"
+    "nome_download": "https://github.com/Musicpads/AudioFiles/raw/refs/heads/main/Amber_cloud.mp3"
   },
    {
     "id": "pad_03",
-    "titolo": "3.Shimmer minor",
+    "titolo": "3.Amber minor Cloud",
     "tipo": "gratis",
-    "nome_download": "https://github.com/Musicpads/AudioFiles/raw/refs/heads/main/Shimmer_minor.mp3"
+    "nome_download": "https://github.com/Musicpads/AudioFiles/raw/refs/heads/main/Amber_minor_cloud.mp3"
   },
      {
     "id": "pad_04",
+    "titolo": "4.Amber pads",
+    "tipo": "gratis",
+    "nome_download": "https://github.com/Musicpads/AudioFiles/raw/refs/heads/main/Amber_pads.mp3"
+  },
+  {
+    "id": "pad_05",
+    "titolo": "5.Amber minor pads",
+    "tipo": "gratis",
+    "nome_download": "https://github.com/Musicpads/AudioFiles/raw/refs/heads/main/Amber_minor.mp3"
+  },
+  {
+    "id": "pad_06",
+    "titolo": "6.Dark pads",
+    "tipo": "gratis",
+    "nome_download": "https://github.com/Musicpads/AudioFiles/raw/refs/heads/main/Dark_pads.mp3"
+  },
+  {
+    "id": "pad_07",
+    "titolo": "7.Dark minor pads",
+    "tipo": "gratis",
+    "nome_download": "https://github.com/Musicpads/AudioFiles/raw/refs/heads/main/Dark_minor_pads.mp3"
+  },
+  {
+    "id": "pad_08",
     "titolo": "Traccia Rock",
     "tipo": "premium",
     "url_download": "BLOCCATO",
     "nome_file_reale": "canzone_rock1.mp3"
-  },
-  {
-    "id": "pad_05",
-    "titolo": "5.Deep Sea Abyss",
-    "tipo": "gratis",
-    "nome_download": "https://github.com/Musicpads/AudioFiles/raw/refs/heads/main/Deep_Sea_Abyss.mp3"
-  },
-  {
-    "id": "pad_06",
-    "titolo": "6.Aurora luminous",
-    "tipo": "gratis",
-    "nome_download": "https://github.com/Musicpads/AudioFiles/raw/refs/heads/main/Aurora_luminous.mp3"
   }
 ]
